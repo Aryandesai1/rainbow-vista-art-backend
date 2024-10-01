@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.62c7a991.css",
+    "main.js": "/static/js/main.aecfd2cb.js",
+    "static/js/453.2477fced.chunk.js": "/static/js/453.2477fced.chunk.js",
+    "static/media/poster.jpg": "/static/media/poster.c29155a356e50c7e0318.jpg",
+    "static/media/Yohana_vachhani.jpg": "/static/media/Yohana_vachhani.ab3725fdf5ec9276b2a7.jpg",
+    "static/media/RVA_Logo.png": "/static/media/RVA_Logo.41ec60de41047858ceed.png",
+    "static/media/Munir_Khan.jpg": "/static/media/Munir_Khan.16540abdb357ee85a7e7.jpg",
+    "static/media/Pratima.T.jpg": "/static/media/Pratima.T.7a83c3e66f01fb21cde0.jpg",
+    "static/media/Hitesh_Parekh.jpg": "/static/media/Hitesh_Parekh.473f5b418a343f694a88.jpg",
+    "static/media/Jitu_Kotak.jpg": "/static/media/Jitu_Kotak.45cec732042845ab9622.jpg",
+    "static/media/Yunus_Patel.jpg": "/static/media/Yunus_Patel.370675c5954bfc3c005f.jpg",
+    "index.html": "/index.html",
+    "main.62c7a991.css.map": "/static/css/main.62c7a991.css.map",
+    "main.aecfd2cb.js.map": "/static/js/main.aecfd2cb.js.map",
+    "453.2477fced.chunk.js.map": "/static/js/453.2477fced.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62c7a991.css",
+    "static/js/main.aecfd2cb.js"
+  ]
+}
