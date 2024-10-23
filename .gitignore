@@ -1,2 +1,7 @@
 /.env
 /venv/
+/my-flask-app.zip
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
